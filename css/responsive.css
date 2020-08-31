@@ -1,0 +1,117 @@
+@media only screen and (max-width: 1024px) {
+	.logo {
+    margin-top: 4rem;
+	}
+	.banner h1 {
+    font-size: 30px;}
+    .social-icon li{
+    	padding: 2px;
+    }
+    #f-icons li a{
+    	font-size: 18px;
+    }
+}
+@media only screen and (max-width: 980px) {
+	.navbar-toggler:hover{
+	 	background: #5D3B69;
+	 }
+	.menu li a{
+		padding: 5px 6px;
+	}
+	.social-icon li i{
+		padding: 10px;
+		font-size: 10px;
+	}
+	h3{
+		font-size: 18px;
+	}
+	.member p {
+	    margin-top: 25px;
+	}
+	.services h3{
+		font-size: 20px;
+	}
+	.banner h1 {
+    font-size: 28px;
+	}
+	.name,.email{
+		width: 100%;
+	}
+	#f-icons li {
+      padding: 15px;
+	}
+
+@media only screen and (max-width: 768px) {
+	.nav-link:focus, .nav-link:hover,.navbar-dark .navbar-nav .active > .nav-link, .navbar-dark .navbar-nav .nav-link.active, .navbar-dark .navbar-nav .nav-link.show, .navbar-dark .navbar-nav .show > .nav-link {
+	padding: 8px 8px;
+	}
+	.nav-link, .nav-link,.navbar-dark .navbar-nav .active > .nav-link, .navbar-dark .navbar-nav .nav-link.active, .navbar-dark
+	 .navbar-nav .nav-link.show, .navbar-dark .navbar-nav .show > .nav-link {
+	 	padding: 8px 8px;
+   		margin-left: 10px;
+	 }
+	 .carousel-item {
+	 	padding: 150px 0px;
+	 }
+	 .carousel-item h1{
+	 	font-size: 30px;
+	 }
+	 .navbar-toggler:hover{
+	 	background: #5D3B69;
+	 }
+}
+@media only screen and (max-width: 480px) {
+	.banner{
+	margin-top: 10rem;
+	margin-bottom: 10rem;
+	text-align: center;
+	}
+	.carousel-item h1 {
+    font-size: 26px;
+	}
+	.navbar-toggler:hover{
+	 	background: #5D3B69;
+	 }
+	#menu-2{
+	display:block;
+	}
+	.heading{
+		font-size: 25px;
+		margin-top: 7.1rem;
+	}
+	.about-item{
+		text-align: center;
+	}
+	.about-item img{
+		margin-bottom: 15px;
+	}
+	.para{
+		font-size: 15px;
+	}
+	#f-icons li{
+		padding: 5px;
+	}
+	#f-icons li a{
+		font-size: 15px;
+	}
+	.banner h1 {
+    font-size: 22px;
+	}
+	.banner {
+    margin-top: 5rem;
+    margin-bottom: 8rem;
+    text-align: center;
+	}
+	.about-item{
+		margin-bottom: 60px;
+	}
+	p {
+    line-height: 146%;
+    margin-bottom: 1em;
+	}
+	.navbar{
+		margin-top: 20px;
+		margin-right: 20px;
+		margin-left: 10px;
+	}
+}
